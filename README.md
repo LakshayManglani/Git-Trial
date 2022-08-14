@@ -1,2 +1,2 @@
 # Git-Trial
-This is my personal repository and first try to git and git hub.
+This is my First repository and first try to git and git hub.
